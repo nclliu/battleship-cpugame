@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cs3500.pa03.coord.BoardTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2023-06-14T01:46:16" hostname="MacBook-Air-2.local" time="0.016">
+  <properties/>
+  <testcase name="unHideBoard()" classname="cs3500.pa03.coord.BoardTest" time="0.003"/>
+  <testcase name="getBoardToDisplay()" classname="cs3500.pa03.coord.BoardTest" time="0.0"/>
+  <testcase name="mapShipsToBoard()" classname="cs3500.pa03.coord.BoardTest" time="0.001"/>
+  <testcase name="getShipsOnBoard()" classname="cs3500.pa03.coord.BoardTest" time="0.003"/>
+  <testcase name="hideBoard()" classname="cs3500.pa03.coord.BoardTest" time="0.001"/>
+  <testcase name="getSmallestDimension()" classname="cs3500.pa03.coord.BoardTest" time="0.001"/>
+  <testcase name="getBoard()" classname="cs3500.pa03.coord.BoardTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

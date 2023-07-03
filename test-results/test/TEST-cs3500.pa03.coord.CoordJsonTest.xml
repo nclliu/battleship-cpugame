@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cs3500.pa03.coord.CoordJsonTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2023-06-14T01:46:16" hostname="MacBook-Air-2.local" time="0.054">
+  <properties/>
+  <testcase name="isShipHere()" classname="cs3500.pa03.coord.CoordJsonTest" time="0.001"/>
+  <testcase name="getShowOpp()" classname="cs3500.pa03.coord.CoordJsonTest" time="0.001"/>
+  <testcase name="testToString()" classname="cs3500.pa03.coord.CoordJsonTest" time="0.0"/>
+  <testcase name="unHide()" classname="cs3500.pa03.coord.CoordJsonTest" time="0.001"/>
+  <testcase name="getHide()" classname="cs3500.pa03.coord.CoordJsonTest" time="0.001"/>
+  <testcase name="getShot()" classname="cs3500.pa03.coord.CoordJsonTest" time="0.001"/>
+  <testcase name="getX()" classname="cs3500.pa03.coord.CoordJsonTest" time="0.001"/>
+  <testcase name="getY()" classname="cs3500.pa03.coord.CoordJsonTest" time="0.0"/>
+  <testcase name="setShowOpp()" classname="cs3500.pa03.coord.CoordJsonTest" time="0.009"/>
+  <testcase name="placeShip()" classname="cs3500.pa03.coord.CoordJsonTest" time="0.0"/>
+  <testcase name="setHide()" classname="cs3500.pa03.coord.CoordJsonTest" time="0.001"/>
+  <testcase name="setShot()" classname="cs3500.pa03.coord.CoordJsonTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cs3500.pa03.controller.BattleControllerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-06-14T01:46:16" hostname="MacBook-Air-2.local" time="0.082">
+  <properties/>
+  <testcase name="run()" classname="cs3500.pa03.controller.BattleControllerTest" time="0.082"/>
+  <system-out><![CDATA[[10, 10]
+8
+1 here
+i: 0
+1 here
+i: 1
+1 here
+i: 2
+1 here
+i: 3
+1 here
+i: 4
+1 here
+i: 5
+1 here
+i: 6
+1 here
+i: 7
+shots: [0, 0, 1, 1, 2, 2, 3, 3]
+X: 0 Y: 0
+X: 1 Y: 1
+X: 2 Y: 2
+X: 3 Y: 3
+8
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
