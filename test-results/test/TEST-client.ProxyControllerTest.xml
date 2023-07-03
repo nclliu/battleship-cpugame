@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="client.ProxyControllerTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-06-14T01:46:14" hostname="MacBook-Air-2.local" time="1.792">
+  <properties/>
+  <testcase name="testTakeShots()" classname="client.ProxyControllerTest" time="1.58"/>
+  <testcase name="testEndGame()" classname="client.ProxyControllerTest" time="0.104"/>
+  <testcase name="testSetup()" classname="client.ProxyControllerTest" time="0.032"/>
+  <testcase name="testJoin()" classname="client.ProxyControllerTest" time="0.028"/>
+  <testcase name="testSuccessfulHits()" classname="client.ProxyControllerTest" time="0.022"/>
+  <testcase name="testReportDamage()" classname="client.ProxyControllerTest" time="0.02"/>
+  <system-out><![CDATA[{"method-name":"setup","arguments":{"fleet":[{"coord":{"x":0,"y":0},"length":6,"direction":"VERTICAL"},{"coord":{"x":3,"y":2},"length":5,"direction":"VERTICAL"},{"coord":{"x":4,"y":1},"length":4,"direction":"VERTICAL"},{"coord":{"x":1,"y":2},"length":3,"direction":"VERTICAL"}]}}
+{"method-name":"take-shots","arguments":{"coordinates":[{"x":1,"y":0},{"x":6,"y":2},{"x":7,"y":4},{"x":7,"y":3}]}}
+{"method-name":"report-damage","arguments":{"coordinates":[{"x":0,"y":1},{"x":3,"y":2}]}}
+{"method-name":"successful-hits","arguments":"void"}
+{"result":null,"reason":null}
+
+{"method-name":"join","arguments":{"name":"owenhong0","game-type":"SINGLE"}}
+
+]]></system-out>
+  <system-err><![CDATA[Disconnected from server
+Disconnected from server
+Disconnected from server
+Disconnected from server
+Disconnected from server
+]]></system-err>
+</testsuite>
