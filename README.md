@@ -4,6 +4,7 @@
 [PA04 Write-Up](https://markefontenot.notion.site/PA-04-BattleSalvo-Part-2-20ff66267da84956b35794bf8452c2fd)
 
 OOD Summer 1 2023, Partner: Owen Hong
+- server repo: https://github.com/CS-3500-OOD/BattleshipServer
 
 This template includes several additional tools:
 1. Gradle Build Automation
